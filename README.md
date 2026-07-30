@@ -130,19 +130,4 @@ It prints retrieved document chunks or a traceback on error. Useful to verify AW
 
 ---
 
-## Contributing
-- Add issues and PRs for bug fixes or feature requests.
-- If you plan to extend the retrieval or LLM layer, keep agent logic in `agent.py` and UI in `app.py`.
-- Add unit tests / integration tests for new features.
-
----
-
-## License
-No license file is included in this repository. If you intend to make this project public, add a `LICENSE` file (for example, an MIT or Apache 2.0 license).
-
----
-
-## Next steps I can help with
-- Commit this README.md to the repository (which branch should I use?).
-- Add a basic `.env.example` template showing required variables.
 - Create a GitHub Actions workflow to run `test_kb.py` as an integration check (note: would need secrets configured).
