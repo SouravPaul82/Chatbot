@@ -131,3 +131,5 @@ It prints retrieved document chunks or a traceback on error. Useful to verify AW
 ---
 
 - Create a GitHub Actions workflow to run `test_kb.py` as an integration check (note: would need secrets configured).
+
+---
